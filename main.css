@@ -6,12 +6,17 @@ body {
   }
   
 h1 {font-family: Helvetica, Ariel, serif;
-  color: #8db6cd;
+  color: #4a708b;
 	font-size: 32px;
   }
   
 h3 {font-family: Helvetica, Ariel, serif;
-    color: #7ec0ee;
+    color: #6ca6cd;
     font-size: 24px;
+    border: 1px dotted #4a708b;
    }
   
+.school {
+	text-align: left;
+	justify-content: top-left; 
+	
