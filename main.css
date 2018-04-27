@@ -25,9 +25,8 @@ h4 {font-family: Helvetica, Ariel, serif;
   
 .school {
 	display: inline;
-	text-align: left;
+	text-align: center;
 	justify-content: top-left;
-	margin-left: 30px;
 	font-family: Helvetica, Ariel, serif;
 	font-size: 18px;
 	color: #4a708b;
