@@ -1,0 +1,17 @@
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+  }
+  
+h1 {font-family: Helvetica, Ariel, serif;
+  color: #8db6cd;
+	font-size: 32px;
+  }
+  
+h3 {font-family: Helvetica, Ariel, serif;
+    color: #7ec0ee;
+    font-size: 24px;
+   }
+  
