@@ -1,6 +1,6 @@
 body {
 	height: 100%;
-	margin: 30;
+	margin: 20;
 	text-align: center;
 	width: 100%;
   }
@@ -23,10 +23,12 @@ h3 {font-family: Helvetica, Ariel, serif;
 	font-family: Helvetica, Ariel, serif;
 	font-size: 20px;
 	color: #6ca6cd;
+	}
 	
-.apac {
+ .apac {
      	text-align: left;
 	justify-content: top-center;
 	font-family: Helvetica, Ariel, serif;
 	font-size: 20px;
 	color: #6ca6cd;
+	}
