@@ -25,8 +25,7 @@ h4 {font-family: Helvetica, Ariel, serif;
   
 .school {
 	display: inline;
-	text-align: center;
-	justify-content: top-left;
+	text-align: left;
 	font-family: Helvetica, Ariel, serif;
 	font-size: 18px;
 	color: #4a708b;
@@ -34,6 +33,7 @@ h4 {font-family: Helvetica, Ariel, serif;
 	
 .apac {
 	display: inline;
+	text-align: left;
 	font-family: Helvetica, Ariel, serif;
 	font-size: 18px;
 	color: #4a708b;
@@ -41,6 +41,7 @@ h4 {font-family: Helvetica, Ariel, serif;
 
 .bou {
 	display: inline;
+	text-align: left;
 	font-family: Helvetica, Ariel, serif;
 	font-size: 18px;
 	color: #4a708b;
